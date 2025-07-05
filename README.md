@@ -78,7 +78,4 @@ cd Intern-Manager
 
 
 
----
-
-💪 **Thank you for using the Internship Program Manager!** 🚀
 
