@@ -1,8 +1,8 @@
-# 👉 Internship Program Manager
+# 👉 Intern Manager
 _A Java with Spring MVC-based application for managing internship programs efficiently._
 
 ## 📚 Overview
-The **Internship Program Manager** is a **Java MVC** application designed to manage various aspects of an internship program. It allows administrators to handle batches, trainers, interns, and the Learning & Development (LD) team, ensuring smooth program execution.
+The **Intern Manager** is a **Java MVC** application designed to manage various aspects of an internship program. It allows administrators to handle batches, trainers, interns, and the Learning & Development (LD) team, ensuring smooth program execution.
 
 ## 🚀 Features
 
@@ -45,8 +45,8 @@ Internship-Program-Manager/
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/Internship-Program-Manager.git
-cd Internship-Program-Manager
+git clone https://github.com/your-username/Intern-Manager.git
+cd Intern-Manager
 ```
 
 ### 2️⃣ Import into IntelliJ IDEA
@@ -62,10 +62,6 @@ cd Internship-Program-Manager
 
 ### 4️⃣ Run the Project
 - Start the application using IntelliJ IDEA.
-- Access the web application at:
-  ```
-  http://localhost:8080
-  ```
 
 ## 📊 Database Schema
 
@@ -79,10 +75,6 @@ cd Internship-Program-Manager
 
 
 
-## 📩 Contact & Contributions
-🔹 If you’d like to contribute or have questions, feel free to open an **Issue** or a **Pull Request**.
-📩 Email: aneabidevraji@gmail.com
-🔗 LinkedIn: (https://www.linkedin.com/in/aneesh-s-nkl)
 
 
 
